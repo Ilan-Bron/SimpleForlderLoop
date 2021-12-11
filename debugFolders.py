@@ -1,0 +1,2 @@
+import folders
+folders.main(".")
